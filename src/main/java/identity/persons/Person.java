@@ -1,4 +1,4 @@
-package workflow.persons;
+package identity.persons;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

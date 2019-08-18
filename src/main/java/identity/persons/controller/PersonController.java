@@ -1,9 +1,9 @@
-package workflow.persons.controller;
+package identity.persons.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import workflow.persons.Person;
-import workflow.persons.service.PersonService;
+import identity.persons.Person;
+import identity.persons.service.PersonService;
 
 import java.util.List;
 

@@ -1,9 +1,9 @@
-package workflow.persons.service;
+package identity.persons.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import workflow.persons.Person;
-import workflow.persons.PersonRepository;
+import identity.persons.Person;
+import identity.persons.PersonRepository;
 
 import java.util.List;
 

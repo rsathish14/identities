@@ -1,6 +1,4 @@
-package workflow.persons;
-
-import java.util.List;
+package identity.persons;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
